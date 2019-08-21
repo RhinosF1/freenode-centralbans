@@ -1,0 +1,7 @@
+The main idea behind this is that there would be a shared ban list that can be used and added to by channel operators using an $j ban.
+
+The channel operators will be able to add to the list based on strict criteria but it won't be as strict as a K-Line.
+
+An area will be created for channel operators to discuss the bans and an appeals channel should be created.
+
+All channels using this should ensure users affected a redirect-banned to a channel with appeal instructions.
